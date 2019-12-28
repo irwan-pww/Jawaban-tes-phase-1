@@ -1,0 +1,51 @@
+form{
+    background-color: ghostwhite; width: 310px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.personal{
+
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.acount{
+
+    border-top: 1;
+    margin-bottom: 30px;
+}
+
+.contact{
+
+    border-top: 1;
+    margin-bottom: 30px;
+}
+
+.conten{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head1{
+    background: -webkit-linear-gradient(under, grey, grey);
+    height: 2px;
+    margin: -1.1rem auto 0 auto;
+    width: 89px;
+    text-align: left;
+    align-content: ;
+}
+
+input, text{
+    border-radius: 3px;
+}
+
+.select{
+    border-radius: 3px;
+}
